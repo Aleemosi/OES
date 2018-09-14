@@ -1,0 +1,376 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+OES
+</name>
+</assembly>
+<members>
+<member name="T:OES.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:OES.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:OES.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:OES.My.Resources.Resources.Admin">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OES.My.Resources.Resources.Calendar_104">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OES.My.Resources.Resources.calendar_icon_13">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OES.My.Resources.Resources.forms__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OES.My.Resources.Resources.instructions">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OES.My.Resources.Resources.Login">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OES.My.Resources.Resources.logout_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OES.My.Resources.Resources.Mason">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OES.My.Resources.Resources.Meeting">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OES.My.Resources.Resources.Member">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OES.My.Resources.Resources.New_Calendar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OES.My.Resources.Resources.OES_PIC">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OES.My.Resources.Resources.OES_PIC_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:OES.OESDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:OES.OESDataSet.LoginDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OES.OESDataSet.Login1DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OES.OESDataSet.tblDateDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OES.OESDataSet.tblDuesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OES.OESDataSet.tblMemberDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OES.OESDataSet.tblMinutesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OES.OESDataSet.tblOfficerDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OES.OESDataSet.tblTreasureDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OES.OESDataSet.tblVisitorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OES.OESDataSet.recMemberStatusDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OES.OESDataSet.DateRollDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OES.OESDataSet.DateVisitorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OES.OESDataSet.LoginRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OES.OESDataSet.Login1Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OES.OESDataSet.tblDateRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OES.OESDataSet.tblDuesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OES.OESDataSet.tblMemberRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OES.OESDataSet.tblMinutesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OES.OESDataSet.tblOfficerRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OES.OESDataSet.tblTreasureRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OES.OESDataSet.tblVisitorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OES.OESDataSet.recMemberStatusRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OES.OESDataSet.DateRollRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OES.OESDataSet.DateVisitorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OES.OESDataSet.LoginRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OES.OESDataSet.Login1RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OES.OESDataSet.tblDateRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OES.OESDataSet.tblDuesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OES.OESDataSet.tblMemberRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OES.OESDataSet.tblMinutesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OES.OESDataSet.tblOfficerRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OES.OESDataSet.tblTreasureRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OES.OESDataSet.tblVisitorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OES.OESDataSet.recMemberStatusRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OES.OESDataSet.DateRollRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OES.OESDataSet.DateVisitorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OES.OESDataSetTableAdapters.LoginTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OES.OESDataSetTableAdapters.Login1TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OES.OESDataSetTableAdapters.tblDateTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OES.OESDataSetTableAdapters.tblDuesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OES.OESDataSetTableAdapters.tblMemberTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OES.OESDataSetTableAdapters.tblMinutesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OES.OESDataSetTableAdapters.tblOfficerTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OES.OESDataSetTableAdapters.tblTreasureTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OES.OESDataSetTableAdapters.tblVisitorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OES.OESDataSetTableAdapters.recMemberStatusTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OES.OESDataSetTableAdapters.DateRollTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OES.OESDataSetTableAdapters.DateVisitorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OES.OESDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:OES.OESDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(OES.OESDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:OES.OESDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(OES.OESDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:OES.OESDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(OES.OESDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:OES.OESDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:OES.OESDataSetTableAdapters.TableAdapterManager.UpdateAll(OES.OESDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:OES.OESDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:OES.OESDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
